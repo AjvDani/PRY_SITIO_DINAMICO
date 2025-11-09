@@ -1,0 +1,14 @@
+[
+  {
+    "nombre": "Espresso",
+    "descripcionCorta": "Un café intenso con aroma profundo y sabor fuerte.",
+    "descripcionLarga": "Un espresso intenso y aromático, preparado con granos ecuatorianos de tueste medio-oscuro que resaltan notas de cacao y nuez. Pequeño en tamaño, pero grande en sabor — la esencia pura del café en cada sorbo.",
+    "imagen": "./public/img/cafe1.jpg"
+  },
+  {
+    "nombre": "Latte",
+    "descripcionCorta": "Café con leche vaporizada, textura cremosa y sabor suave.",
+    "descripcionLarga": "Un latte suave y cremoso, elaborado con espresso ecuatoriano y leche vaporizada que crea una textura aterciopelada. Equilibrado y reconfortante, ideal para quienes disfrutan de un café con cuerpo pero de sabor delicado.",
+    "imagen": "./public/img/cafe2.jpg"
+  }
+]
